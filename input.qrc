@@ -1,5 +1,12 @@
 <RCC>
     <qresource prefix="/">
         <file>input.txt.txt</file>
+        <file>deep-space.jpg</file>
+        <file>destroyer.jpg</file>
+        <file>drednot.jpg</file>
+        <file>heavyfighter.JPG</file>
+        <file>jetfighter.jpg</file>
+        <file>superdestroyer.jpg</file>
+        <file>cruiser.jpg</file>
     </qresource>
 </RCC>
